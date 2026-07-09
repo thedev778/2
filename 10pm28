@@ -1,10 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia-tnt_zcmwjdc/corp/73_arryadia-tnt_zcmwjdc_480p/chunks_dvr.m3u8?token=WE08K_u_Oo22Si1ygAzswJmFJvK5YK3ZBcnOsgl_zu4&token_path=%2Fabr_corp%2F73_arryadia-tnt_zcmwjdc%2Fcorp%2F73_arryadia-tnt_zcmwjdc_480p&expires=1783632800
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia-tnt_zcmwjdc/corp/73_arryadia-tnt_zcmwjdc_480p/chunks_dvr.m3u8?token=O_O1g6xf7Ar2vwFUm76pnHrJ4qESJSForDdqW2K6VNA&token_path=%2Fabr_corp%2F73_arryadia-tnt_zcmwjdc%2Fcorp%2F73_arryadia-tnt_zcmwjdc_480p&expires=1783636683
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wjsU9nx7vttm9Nmavk5Cks7etKxuArSvyqAAa1nz7EVKzsQIj_id0KS179Gl1gW5lLGhIwhM8Iv8F1uuE3jxbw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PYmwTjznqk2jDdf4qT3EP_STVsep5vr6iTClWsNiKzimyz1JkdxJvaO_6WbYpcc_GCeOFGtY7kNS0C7N9X2dnw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
