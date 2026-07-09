@@ -12,7 +12,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 https://ww2.sporttsonline.click/channels/hd/hd11.php
 
 #EXTINF:-1 tvg-id="1Maroc vs France" tvg-name="1Maroc vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png" group-title="2- WORLD CUP", Maroc vs France
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u83-
 
 #EXTINF:-1 tvg-id="1Maroc vs France" tvg-name="1Maroc vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png" group-title="2- WORLD CUP", Maroc vs France
 https://ww2.sporttsonline.click/channels/hd/hd11.php
@@ -45,42 +45,42 @@ https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL KASS" tvg-logo="https://www.alkass.net/assets/images/six.png" group-title="3- AL KASS", AL KASS 6
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="3- MBC", MBC
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/t4r1k2-dev/minitv-logos/main/mbc1.png" group-title="3- MBC", MBC 1
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="4- MBC", MBC
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/t4r1k2-dev/minitv-logos/main/mbc1.png" group-title="4- MBC", MBC 1
 https://shd-gcp-live-orng.shahid.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="3- MBC", MBC 3
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="4- MBC", MBC 3
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="3- MBC", MBC 4
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="4- MBC", MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="3- MBC", MBC 5
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="4- MBC", MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="3- MBC", MBC Masr 2
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="4- MBC", MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="3- MBC", MBC Bollywood
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="4- MBC", MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="3- MBC", MBC Iraq
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="4- MBC", MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="3- MBC", MBC Fm
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxTorhFrSWIUAPggTBhFKYR067SLQ7qafexCYt4NHiQ&s=10" group-title="4- MBC", MBC Fm
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="4- ESPN ONLY",ESPN
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="6- ESPN ONLY",ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="4- ESPN ONLY",ESPN News
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="6- ESPN ONLY",ESPN News
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
-#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="4- ESPN ONLY",ESPN U
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="6- ESPN ONLY",ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="4- ESPN ONLY",ESPN2
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="6- ESPN ONLY",ESPN2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
 
 #EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="https://nbcsports.brightspotcdn.com/dims4/default/5613f9b/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2Fee%2Fce44ff364e8084b3b71df33438d3%2Fnbc-sports-now-final-whiteb.jpg" group-title="NBC",NBC Sports Bay Area
@@ -109,14 +109,14 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" group-title="Sky Sports",Sky Sports Premier League
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
 
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTt-Fv4KreCnWbd4-grbnJPAIs5bD8jzzVCV2uOoXNVA&s=10" group-title="4- HBO LIVE",HBO
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTt-Fv4KreCnWbd4-grbnJPAIs5bD8jzzVCV2uOoXNVA&s=10" group-title="4- HBO LIVE",HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTt-Fv4KreCnWbd4-grbnJPAIs5bD8jzzVCV2uOoXNVA&s=10" group-title="5- HBO LIVE",HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTt-Fv4KreCnWbd4-grbnJPAIs5bD8jzzVCV2uOoXNVA&s=10" group-title="5- HBO LIVE",HBO
 http://40.160.24.53/HBO_HD/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmcbSUGeiajTEw-_nng0flS-1D2lNgz2OGp8fiamlcg&s=10" group-title="4- HBO LIVE",HBO 2
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmcbSUGeiajTEw-_nng0flS-1D2lNgz2OGp8fiamlcg&s=10" group-title="5- HBO LIVE",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="https://static.hbo.com/2025-09/HBO_Comedy_Plex_Logo_bw_1.svg" group-title="4- HBO LIVE",HBO Comedy
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="https://static.hbo.com/2025-09/HBO_Comedy_Plex_Logo_bw_1.svg" group-title="5- HBO LIVE",HBO Comedy
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
-#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="4- HBO LIVE",HBO Zone
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="5- HBO LIVE",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 
