@@ -24,16 +24,6 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="THAMANYAH" tvg-logo="https://images.seeklogo.com/logo-png/51/1/thmanyah-logo-png_seeklogo-518881.png" group-title="3-THAMANYAH", THAMANYAH
-
-#EXTINF:-1 tvg-id="" tvg-name="THAMANYAH 1" tvg-logo="https://images.seeklogo.com/logo-png/51/1/thmanyah-logo-png_seeklogo-518881.png" group-title="3-THAMANYAH", THAMANYAH 1
-https://man1ted.com/watch/th1.m3u8?md5=-1W22hVgvqEBCOMmNfrwRA&expires=1783549514
-
-#EXTINF:-1 tvg-id="" tvg-name="THAMANYAH 2" tvg-logo="https://images.seeklogo.com/logo-png/51/1/thmanyah-logo-png_seeklogo-518881.png" group-title="3-THAMANYAH", THAMANYAH 2
-https://man1ted.com/watch/th2.m3u8?md5=SqjXEGyKIRNB8n9xG8sv4g&expires=1783549537
-
-#EXTINF:-1 tvg-id="" tvg-name="THAMANYAH 3" tvg-logo="https://images.seeklogo.com/logo-png/51/1/thmanyah-logo-png_seeklogo-518881.png" group-title="3-THAMANYAH", THAMANYAH 3
-https://man1ted.com/watch/th3.m3u8?md5=RHpk0_UKMdg3X9fDhSEF7A&expires=1783549570
 #EXTINF:-1 tvg-id="" tvg-name="AL KASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQVGtf9ox_c9xDzoS_isOgoLEp7huHVe_Pd29AFYzLA&s=10" group-title="AL KASS",
 https://liveeu-gcp.alkassdigital.net/alkass6-p/20260609T164626Z/mux_video_1080p_ts/index-1.m3u8
 
