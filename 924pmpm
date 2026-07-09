@@ -1,18 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
-https://a16.kora-plus.app/live/alwan1.m3u8?token=MPSr7kE_Y4PQ5ys-NosCMVaEEfc&exp=1783630396
-
-#EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
-https://lb2.strmd.st/secure/QDKnRjtZUyASQndLwZCpQBhPbHuwaUyt/rtmp/stream/LwLAgqeomjrkm54e4x4k2CYQOj2l1ZVMIE9HrNovRseXO6XVa-5J_6nPxnoxj2QJuxKB-caD3w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
-https://a20.kora-plus.app/live/max1.m3u8?token=Gw0oSMslOxd4poeXnPAqEe6MKnI&exp=1783630382
 
 #EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
 https://a16.kora-plus.app/live/max11.m3u8?token=lFTJxwEAgMknWtJWfKCxZYxs3Qs&exp=1783630413
 
 #EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
+https://a11.kora-plus.app/live/max1.m3u8?token=hwiJaO53IQWRWbJD7JqSucckiw0&exp=1783630647
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
+https://a14.kora-plus.app/live/max11.m3u8?token=nAMVYfa6mK17ZWK7t-3uoHx7HZQ&exp=1783630659
+#EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
 https://lb10.strmd.st/secure/ZHBrWeuHbRnbOAWfJckdBjazfeLBQezR/rtmp/stream/C2MvyR-AdIjmfQv4hvNtTmNBrWTx00b6SPfbcsNjfjEf62Sz4TBuEGHq8vnaiQPQhFp0qgMczQ/1/high/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Maroc vs France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicyPpPfoW2wujJMhXW_tkDXXtuKCw5U2BW3kk9Oz6j1_zNpvcKGhYfvE&s=10" group-title="1- Maroc vs France", Maroc vs France
 https://ww2.sporttsonline.click/channels/hd/hd11.php
