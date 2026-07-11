@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="McGregor vs Holloway" tvg-logo="https://www.ufc.com/images/styles/background_image_sm/s3/2026-06/071126-ufc-329-mcgregor-vs-holloway-2-EVENT-ART.jpg?h=d1cb525d&itok=xqaVyV38" group-title="1- McGregor vs Holloway ", McGregor vs Holloway
+https://lb5.strmd.st/secure/zlMXuQxzvPerufiFDYyNDfqQgQsnIlZf/rtmp/stream/DsXLeEqwO1hHE9SDiXlNvGinTzIqCPG5T4ORAhttfsP9MfUFP8N7ZeZGPEqOd6tFzRlcKqc/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="McGregor vs Holloway" tvg-logo="https://www.ufc.com/images/styles/background_image_sm/s3/2026-06/071126-ufc-329-mcgregor-vs-holloway-2-EVENT-ART.jpg?h=d1cb525d&itok=xqaVyV38" group-title="1- McGregor vs Holloway ", McGregor vs Holloway
+https://shiva.indianservers.st/secure/GZuYoBBoPbsscYTgkUrtpCkCgVeGlIqv/1783792800/1783846800/ufc/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="N VS A" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/zhB7A00QI1y988pT_768x432.jpg" group-title="1- Norvège vs Angleterre ", Norvège vs Angleterre
 https://buzcdn.com/live/master.m3u8
 
