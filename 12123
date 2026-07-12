@@ -1,10 +1,23 @@
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name=A VS S" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/60vC6c96dcVFR1FN_768x432.jpg" group-title="2- Argentine vs Suisse", Argentine vs Suisse
+https://pup.artiover.online/meoon3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name=A VS S" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/60vC6c96dcVFR1FN_768x432.jpg" group-title="2- Argentine vs Suisse", Argentine vs Suisse
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=A VS S" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/60vC6c96dcVFR1FN_768x432.jpg" group-title="2- Argentine vs Suisse", Argentine vs Suisse
 https://lb11.strmd.st/secure/sNFgDiwSCnpgrUvfWTRRrMMYZKSQQJEH/rtmp/stream/fhXfCaLvE0UbrFeV8igB91Drze973BGHTCs_jVQKILxUN69GWmuP8EyFQwEy7HXvF2BSv9Untg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=A VS S" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/60vC6c96dcVFR1FN_768x432.jpg" group-title="2- Argentine vs Suisse", Argentine vs Suisse
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=A VS S" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/60vC6c96dcVFR1FN_768x432.jpg" group-title="2- Argentine vs Suisse", Argentine vs Suisse
+https://s3.us-east-1.amazonaws.com/cff101/live/stream/360p/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=A VS S" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/60vC6c96dcVFR1FN_768x432.jpg" group-title="2- Argentine vs Suisse", Argentine vs Suisse
 https://buzcdn.com/live/master.m3u8
@@ -14,9 +27,6 @@ https://2.simokora.com/my-hls/h9asfma10d5/source/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=A VS S" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/60vC6c96dcVFR1FN_768x432.jpg" group-title="2- Argentine vs Suisse", Argentine vs Suisse
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/7yUhULElPbWpAu4jFFZ5UJn-LVxWwCAy4ev8VUNj-XHp0Ol8AMn7jtQL6WudWD3MTiiwrLtn6Hs8KK6_iAptXg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-
-#EXTINF:-1 tvg-id="" tvg-name=A VS S" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/60vC6c96dcVFR1FN_768x432.jpg" group-title="2- Argentine vs Suisse", Argentine vs Suisse
-https://fackyou-cdn4.cfd/iptv-1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name=A VS S" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/60vC6c96dcVFR1FN_768x432.jpg" group-title="2- Argentine vs Suisse", Argentine vs Suisse
