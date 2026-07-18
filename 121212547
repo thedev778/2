@@ -1,98 +1,98 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://s3.us-east-2.amazonaws.com/caa100/live/stream/360p/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://lb7.strmd.st/secure/gVQmxnGvtuuIglUvfWffKeLrZJaNkRbf/rtmp/stream/Ma97XIpyZ2gUOR69yTavSXjtK3LnxfrKf8h22u--oPGyUBQJ57v1oDdYx7b9i3q1s8QhaOkSsw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Gn0F8ZuBErSZ_K9i_nHUD0LSWwbwScoUcfX9eRx9q2Y0-B9OrI-I2aVHZc-BOMEvdxVorWt5x9eN_lvGkL7P2w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/ygpOF5233A8naoFpYADPfR93IP-aFMMqnlZWkUQtO8sJvVcukG5lqwzPalgOyK7jHi874ERSEW1MhgpfOhfTOQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://2.simokora.com/my-hls/h9asfma10d5/source/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/DuRWqb1kZEEXATg61RWWjAa6Gqe6oGkuS0lI3sHBPjvHD0_AG7tfWqwHokpyouFHJIF0yw8OePmYIodfUsmDpw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/jzXskv9q3FydflzNzuTHQZmlkcZzUeAnbnQ9jqOFQ5ETvhnOXSGZql00aVE0efG8zNoiWYM7oY0rUszZJGXgwA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/vLeTMZh-PD-DiSOp3KZvTySUqVO1OAjgIrb7tD66aU_PB1iHaR3fU_YKgZ4YV_mSgVIjCXWo_GWWEAKPtTMcHg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Lsec7mJqvSH0diqchML3ck1NDsPObK6hdLKTRphFmh9UuwxfZBcJ6I2QQ7v3-NRZGVm-QmhfWURg4EOG-vaauw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/u8Ze8KcH5shLl0iODqu0tIjQWHlBV3QDiGOoneQbBnnbfGGjk2SvbAlbcVHi-dpXBuX5zeaRY-LRu1uHjPJAKQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/4yeq-DHJETK1fo1oTrmKW62A_ziZzwXfR_gJjXvf992Tgoocy1RFxhYx2KY12k7_Nu1YdNFAqL3UVsW8dY-otA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/lPdVv9sJN3BNaF5LBJzaFCUwI8FSPAqQNfzBoUExR-LGF0l__l1l09mDYvPF6AQqOE5BZe2GnnYu9MNNWHC0Pw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Q_n_KnWoXJigQRogeCpXB7pmmfdCoL8_g03KPMNrNr_4C07YvDWRKbGfjiJRCgFROfd898Omq1oR6QGYijqxjg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/jwOERPMrr23RNOGEBjiIP6uC_rA29SX7YPGIciQp1vqLWkdJzS2VTabQQ5GA3ROLWD0OEc0I0dHSbZHv1tRg0Q/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/UqUePptDtuUw2daFf4irMbXlhJRwOZu6a7w9nUCJxwPjN-mvHN0xO-uoL6LUMDWKovl4mOodGSqtzKvpXOi9hg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/SQOV15GxitFE3OsgnYsmX9BKORroLMoriurCuo4ufk7QKGwYtSkdrFINMhglpKcQXham3NhTMejgZ6eFN0hD1w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/z42Zr99Fb62FTSBMB58frQipGOHdFWFok8bqBiaKah65pZMUGIUCWTuXdIGzqHDpHtx1yq25f_nAe5CyDolbQg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/RXervR5e4s7fQu20Td7hrfwsaYOP_QqDKepM09GYvlGeu4e5rcE8rUtLKGMySFZRiEAyDOQLTuqiaUvQ0xPv8A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/FiSXJb_v-Ksh9VOW833XC6DNwewg0xHH_wBtH71wTJV8RTorobAeyZQ9lrhPE96nF6chLksVtaZ6xZFyPaXK5g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/CaoxwvZ_Lqzhk95AUXBpgNZp52Smo7bPwvb6-vZFOXsQkWcQN_xjJW0mb6lyBHdYrXRAC-sWfn1d4kL-S4sq8g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/zrSh-SclKFQz1m8GfwqcZGQxMXy3-B-_YMQ_J-BauZocMHz7RMbT3bw-2ow9PVLyGwqPGa2gtO5PX4I8Cb8GLg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/I5HYikOsBVbJzmow0w5uHUve3qJD7O1VhmqVCwuiemA2EFZj5OKeIL_u7Wb1mm5hQcDjbmr1Zhjj1wOO_5HcAQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 http://localhost:8090/#:~:text=STREAM%20ANALYSIS%20%5BHIGH%5D-,https%3A//prod%2Dfastly%2Deu%2Dwest%2D1.video.pscp.tv/Transcoding/v1/hls/acIXYE2UelnKZs7uOq1Lu9easBu%2DjRpOknpKeH6DR8nLFrACOK0RPapaJYSW8EUbWH5LFox4ZQpF1NNPOjZOBQ/non_transcode/eu%2Dwest%2D1/periscope%2Dreplay%2Ddirect%2Dprod%2Deu%2Dwest%2D1%2Dpublic/master_dynamic_delta.m3u8%3Ftype%3Dlive,-%F0%9F%93%8B%20Copy
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/6bM_WBktvxiuPonmj8OK4l3JoZ5fM-8l5IUzluv8xEybjhJv6mHMKIdtgKy71ixsNWnS9MXVP87WN7yR6_0mag/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/yhFvcyo2QJNf9FJQkRIRFZbXGyTIfcFU28nQEe42FssQJgVn6hCAw99ozXWAa6FgIk7gCR14swNyn3sS74QQmg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/8utuhoQ0iad2lHbOKpFV3C18wPbBg1zntfPwsBuT2HkYIt2CHE-N9gKLP3o3TwGhtwFFj0U5Abt6iiE2Nq2v2Q/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Sa6nofxAaI4A-GhpsFQil1fFPLij7ckIF-9zUYYa5FYFwvPQmmnZehLgvDLEzt3KotDjB3LdCENInkIn18NAZw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="f vs s" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/9wRo1j3sImvWJMU0_768x432.jpg" group-title="1- Angleterre vs Argentine", Angleterre vs Argentine
+#EXTINF:-1 tvg-id="" tvg-name="Angleterre vs France" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/gqTeD_8zuA3nIsWd_768x432.jpg" group-title="1- Angleterre vs France", Angleterre vs France
 https://v4.sportsonlinne.click/channels/hd/hd11.php
 
 
