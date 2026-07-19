@@ -2,7 +2,8 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
-https://stream.gumlet.io/6a566e22271f05e0cf23dbc4/6a5b9c12af8068270262b626/main.m3u8
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/uxmRd67MpYUAcA8TcOATuZnV-AaRnBLhxzOfcTLfv6dc_Rl4vFZ9xaMQSOFsSy8RSzet8d8zKEHGRdEMgeEGvw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
 https://lb7.strmd.st/secure/BIoIRmIwcqtSnRYFBaKRSlmmYbUxelxx/rtmp/stream/oeC25lbvXy_ayGLW0kSYgqvumEPiF7XL5-LI2W81NQA_KvO3Sfr0UlfJdmMj2hGiT3BJ70I4Rg/1/playlist.m3u8
