@@ -8,21 +8,39 @@ https://stream.gumlet.io/6a566e22271f05e0cf23dbc4/6a5b9c12af8068270262b626/main.
 https://lb7.strmd.st/secure/BIoIRmIwcqtSnRYFBaKRSlmmYbUxelxx/rtmp/stream/oeC25lbvXy_ayGLW0kSYgqvumEPiF7XL5-LI2W81NQA_KvO3Sfr0UlfJdmMj2hGiT3BJ70I4Rg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/xtxbhLfDHk8ZCRM7D955xqs-9hBTnKKgwNnTVxpKPQCllcAgw0KlmmEaA9EuqrOvPY5J5aY0EC3Re7bTl7hj2A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/cnHq-BH80890SfamhLmzmtSvXB57Mp0I5AqQY0qem-W31wp3UNgaLKhMefQ9J5Sh9DhF0AS9uDqFOggl4mlNUQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
-https://lb11.strmd.st/secure/BkBLDaXjnHpcKxRcPaXkvJiMXqSECiXp/rtmp/stream/-HVm0MK7ke0NTO3RUaoEPEZNVZxdryyNaFVSd6ZPphwdo2Efq8TzKJKNaFY91bBCVXP8W2jBCQT-rRo/1/playlist.m3u8
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/uxmRd67MpYUAcA8TcOATuZnV-AaRnBLhxzOfcTLfv6dc_Rl4vFZ9xaMQSOFsSy8RSzet8d8zKEHGRdEMgeEGvw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
 https://2.simokora.com/my-hls/h9asfma10d5/source/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
-https://w1.sportsonlinee.click/channels/hd/hd11.php
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VnnY6BTqQnduhz9q2gD-Duxypx3Ea6jMEsGf2PBpB-zlQzMqkiWK_1EnoU7pGmk8V0DRTxWgsgccmGcknXYaCw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VnnY6BTqQnduhz9q2gD-Duxypx3Ea6jMEsGf2PBpB-zlQzMqkiWK_1EnoU7pGmk8V0DRTxWgsgccmGcknXYaCw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/LSeDrNUqyGf7vsViYv0ZLY3SxGL4UZpraP6WZ89aIWhi2W-4SGfe2aZd2UGAWjvv82y7G3in6DsU96PBcJlBXA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/6p9hjvJ_y5CiKb-IYEKv-dxP95zMKiT6my24SWtmo4_48BlBZ_R-9BVdQhL5cpMNtX1WkKJDoSndGlezAV-TsA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
 
-#EXTINF:-1 tvg-id="" tvg-name="Espagne vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fptZVO8bDo3X-5eH_768x432.jpg" group-title="1- Espagne vs Argentine", Espagne vs Argentine
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AL KASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQVGtf9ox_c9xDzoS_isOgoLEp7huHVe_Pd29AFYzLA&s=10" group-title="3- AL KASS", AL KASS
 https://liveeu-gcp.alkassdigital.net/alkass6-p/20260609T164626Z/mux_video_1080p_ts/index-1.m3u8
